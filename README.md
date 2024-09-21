@@ -1,8 +1,7 @@
 # Welcome to my GitHub Profile!
 - 👋 Hi, I'm Darwin Donovan Darmadi (ThatEmeraldG)
-- 🌱 Studying in BINUS University Indonesia
-- 😵‍ Computer Science Student
-- 👀 Learning React and NextJS Frameworks
+- 🌱 Computer Science Student at BINUS University Indonesia
+- 👀 Currently Learning React and NextJS Frameworks
 - 🎮 I Like to play a lot of video games
 - 🎨 I'm also passionate about art and design
 
