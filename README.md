@@ -16,7 +16,7 @@
   <tbody>
     <tr>
       <td><a href="https://bgdc.itch.io/into-the-function"><img src="https://i.imgur.com/HPU2JTH.gif" alt="Into the Function GIF"/></a></td>
-      <td><a href="https://bgdc.itch.io/multi-spells"><img src="https://i.imgur.com/GJqg1K0.gif" alt="Multi Spells GIF"></a></td>
+      <td><a href="https://bgdc.itch.io/multi-spells"><img src="https://github.com/ThatEmeraldG/ThatEmeraldG/raw/main/multispells.gif" alt="Multi Spells GIF"></a></td>
       <td><a href="https://bgdc.itch.io/game-kelompok-2"><img src="https://i.imgur.com/IAflJ1B.gif" alt="Lamina Lapedi GIF"/></a></td>
     </tr>
     <tr>
