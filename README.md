@@ -15,9 +15,9 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://i.imgur.com/HPU2JTH"><img src="https://i.imgur.com/HPU2JTH.gif" alt="Into the Function GIF"/></a></td>
-      <td><a href="https://i.imgur.com/wATr1dx"><img src="https://i.imgur.com/wATr1dx.gif" alt="Multi Spells GIF" /></a></td>
-      <td><a href="https://i.imgur.com/IAflJ1B"><img src="https://i.imgur.com/IAflJ1B.gif" alt="Lamina Lapedi GIF"/></a></td>
+      <td><a href="https://bgdc.itch.io/into-the-function"><img src="https://i.imgur.com/HPU2JTH.gif" alt="Into the Function GIF"/></a></td>
+      <td><a href="https://bgdc.itch.io/multi-spells"><img src="https://i.imgur.com/GJqg1K0.gif" alt="Multi Spells GIF"></a></td>
+      <td><a href="https://bgdc.itch.io/game-kelompok-2"><img src="https://i.imgur.com/IAflJ1B.gif" alt="Lamina Lapedi GIF"/></a></td>
     </tr>
     <tr>
       <td valign="text-top" align="center">Roguelike card game that immerses players in the world of programming.<br>Strategize with programming-themed cards to overcome challenging enemies and defeat the boss!<br><i>Heavily inspired by Slay the Spire</i></td>
