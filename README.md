@@ -31,7 +31,7 @@
     </tr>
     <tr>
       <td align="center"><i>Team Manager & Game Artist</i></td>
-      <td align="center"><i>Game Designer & Game Artist</i></td>
+      <td align="center"><i>Team Manager & Game Designer<br>& Game Artist</i></td>
       <td align="center"><i>Team Manager</i></td>
     </tr>
   </tbody>
