@@ -1,6 +1,6 @@
-# 👋 Welcome to Emerald's GitHub Profile!
+![image](https://github.com/user-attachments/assets/c5174680-212b-40ec-954b-ab582f1aaeb2)# 👋 Welcome to Emerald's GitHub Profile!
 - 🌱 **Computer Science Student at BINUS University Indonesia**
-- 👀 **Aspiring Software Engineer / Application Developer**
+- 👀 **Learning Software Development**
 - 🎮 **Likes to play a lot of video games**
 - 🎨 **Passionate about art and design**
 ---
@@ -9,7 +9,7 @@
   <thead>
     <tr>
       <th width="33%">🃏💻 <a href="https://bgdc.itch.io/into-the-function">Into The Function</a> 💻🃏</th>
-      <th width="33%">🃏🔥 <a href="https://bgdc.itch.io/multi-spells">Multi Spells</a> 🔥🃏</th>
+      <th width="34%">🃏🔥 <a href="https://bgdc.itch.io/multi-spells">Multi Spells</a> 🔥🃏</th>
       <th width="33%">🛡️⚔️ <a href="https://bgdc.itch.io/game-kelompok-2">Lamina Lapedi</a> ⚔️🛡️</th>
     </tr>
   </thead>
@@ -52,8 +52,12 @@
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Three JS](https://img.shields.io/badge/Three%20JS-black?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Vue JS](https://img.shields.io/badge/Vue_JS-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
 ![Flutter](https://img.shields.io/badge/Flutter-%23112333.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%232c1603?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 
 ### 🤝 Find Me
