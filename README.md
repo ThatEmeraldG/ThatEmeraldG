@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c5174680-212b-40ec-954b-ab582f1aaeb2)# 👋 Welcome to Emerald's GitHub Profile!
+# 👋 Welcome to Emerald's GitHub Profile!
 - 🌱 **Computer Science Student at BINUS University Indonesia**
 - 👀 **Learning Software Development**
 - 🎮 **Likes to play a lot of video games**
